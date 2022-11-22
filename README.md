@@ -1,4 +1,4 @@
-# Wise Teachings from *j4spher.github.io*
+# Welcome to *j4spher.github.io*
 ---
 
 ![](https://i.imgflip.com/6wgepv.png)
