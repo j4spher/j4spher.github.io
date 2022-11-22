@@ -1,8 +1,8 @@
 # Welcome to *j4spher.github.io*
-## Jaspher's Personal Space
+Jaspher's Personal Space
 >In this page you will see things that I am personally fond of, such as activities, hobbies, et cetera.
 ---
-# Pictures I Took Outside/Inside My Home
+## Pictures I Took Outside My Home
 
 *1.An IRL pic of a tree I took in my backyard (True and Factual Information)*
 
