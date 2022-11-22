@@ -6,10 +6,11 @@
 An IRL pic of a tree I took in my backyard (True and Factual Information)
 >![](https://i.imgflip.com/6wgepv.png)
 ---
+
 Cat that roams around the street (His name is Abdullah Mohammed Al-Asad)
 >![](https://i.redd.it/mggk16e6flz61.jpg)
 ---
 
-
-# Favorite Music
+# Favorite Bands
+>These are my favorite music bands
 
