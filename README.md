@@ -75,13 +75,7 @@ Paint It, Black
 ## Favorite Video Games
 ### The one activity that I love to do the most. Here are my top favorite games or game franchises that I often spend time on my computer.
 -
-### 1. Half-Life (Franchise)
-**- Black Mesa**
+### 1. - Black Mesa**
 *Black Mesa is a 2020 first-person shooter game developed and published by Crowbar Collective. It is a third-party remake of Half-Life made in the Source game engine. The plot follows Gordon Freeman, a theoretical physicist working at the Black Mesa Research Facility. He is tasked to place a sample of anomalous material into an Anti-Mass Spectrometer for analysis, using the Mark IV Hazardous Environment Suit (HEV Suit) to do so safely. However, the sample causes a "resonance cascade", devastating the facility and creating an interdimensional rift to an alien dimension called Xen, bringing its alien creatures to Earth. Freeman survives the incident, finds other survivors, and is tasked to make his way to the surface to call for help. Upon reaching the surface, however, he finds that the facility is being cleansed of any living thing - human or alien - by the military. Freeman learns from the surviving scientists the only way to stop the alien invasion is to cross over to Xen and destroy the entity keeping the rift open.* 
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/362890/capsule_616x353.jpg?t=1666633630" width="600">
-
-**- Half-Life 2**
-*Half-Life 2 is a 2004 first-person shooter game developed by Valve. It was published by Valve through its distribution service Steam. Like the original Half-Life, Half-Life 2 combines shooting, puzzles, and storytelling, and adds features such as vehicles and physics-based gameplay. The plot once again returns to Gordon Freeman who has now returned to Earth 20 years after the Black Mesa Incident. Discovering that the planet is now under control by an interdimensional empire, Gordon Freeman joins the resistance to fight against Combine rule.*
-
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg?t=1666823596" width="600">
